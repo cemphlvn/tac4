@@ -1,0 +1,7 @@
+{"timestamp": "2025-01-15T10:30:00Z", "level": "INFO", "message": "User login successful", "user": {"id": 101, "name": "Alice", "role": "admin"}, "metadata": {"ip": "192.168.1.1", "browser": "Chrome"}}
+{"timestamp": "2025-01-15T10:31:22Z", "level": "WARN", "message": "High memory usage detected", "user": {"id": 102, "name": "Bob", "role": "user"}, "metadata": {"memory_percent": 85.5, "cpu_percent": 45.2}}
+{"timestamp": "2025-01-15T10:32:45Z", "level": "ERROR", "message": "Database connection failed", "user": {"id": 103, "name": "Charlie", "role": "user"}, "metadata": {"error_code": "DB_TIMEOUT", "retry_count": 3}}
+{"timestamp": "2025-01-15T10:33:10Z", "level": "INFO", "message": "File upload completed", "user": {"id": 101, "name": "Alice", "role": "admin"}, "metadata": {"file_size": 2048576, "file_type": "csv"}}
+{"timestamp": "2025-01-15T10:34:55Z", "level": "DEBUG", "message": "Query execution time", "user": {"id": 104, "name": "Diana", "role": "analyst"}, "metadata": {"query_time_ms": 125, "rows_returned": 50}}
+{"timestamp": "2025-01-15T10:35:30Z", "level": "INFO", "message": "User logout", "user": {"id": 102, "name": "Bob", "role": "user"}, "metadata": {"session_duration": 3600, "pages_viewed": 15}}
+{"timestamp": "2025-01-15T10:36:15Z", "level": "ERROR", "message": "API rate limit exceeded", "user": {"id": 105, "name": "Eve", "role": "developer"}, "metadata": {"endpoint": "/api/query", "limit": 100}}
