@@ -1,0 +1,6 @@
+{"event_id": "evt_001", "event_type": "purchase", "amount": 99.99, "tags": ["electronics", "sale", "featured"], "participants": ["user_123", "user_456"], "timestamp": "2025-01-15T09:00:00Z"}
+{"event_id": "evt_002", "event_type": "signup", "amount": 0, "tags": ["new_user", "organic"], "participants": ["user_789"], "timestamp": "2025-01-15T09:15:00Z"}
+{"event_id": "evt_003", "event_type": "purchase", "amount": 249.50, "tags": ["books", "bulk_order"], "participants": ["user_123", "user_999"], "timestamp": "2025-01-15T09:30:00Z"}
+{"event_id": "evt_004", "event_type": "refund", "amount": -49.99, "tags": ["electronics", "return"], "participants": ["user_456"], "timestamp": "2025-01-15T09:45:00Z"}
+{"event_id": "evt_005", "event_type": "subscription", "amount": 29.99, "tags": ["recurring", "premium", "annual"], "participants": ["user_789", "user_123"], "timestamp": "2025-01-15T10:00:00Z"}
+{"event_id": "evt_006", "event_type": "purchase", "amount": 15.00, "tags": ["coffee", "cafe"], "participants": ["user_999"], "timestamp": "2025-01-15T10:15:00Z"}

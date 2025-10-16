@@ -1,0 +1,7 @@
+{"id": 1, "type": "article", "title": "Introduction to Python", "author": "Alice", "published": true, "views": 1500}
+{"id": 2, "type": "video", "title": "JavaScript Basics", "author": "Bob", "duration_minutes": 45, "views": 3200}
+{"id": 3, "type": "article", "title": "Database Design", "author": "Charlie", "published": false, "word_count": 2500, "views": 800}
+{"id": 4, "type": "podcast", "title": "Tech Talk Weekly", "author": "Diana", "duration_minutes": 60, "guests": ["Eve", "Frank"], "views": 5000}
+{"id": 5, "type": "video", "title": "Machine Learning 101", "author": "Alice", "duration_minutes": 90, "published": true, "views": 12000, "likes": 450}
+{"id": 6, "type": "article", "title": "Web Security", "author": "Bob", "published": true, "views": 2100, "word_count": 1800, "comments": 34}
+{"id": 7, "type": "tutorial", "title": "Git Workflows", "author": "Charlie", "steps": 12, "difficulty": "intermediate", "views": 4500}

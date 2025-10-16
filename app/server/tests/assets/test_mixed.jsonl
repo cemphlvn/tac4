@@ -1,0 +1,5 @@
+{"order_id": "ORD-001", "customer": {"id": 1001, "name": "John Doe", "tier": "gold"}, "items": [{"sku": "LAPTOP-001", "price": 999.99}, {"sku": "MOUSE-042", "price": 29.99}], "total": 1029.98, "status": "completed"}
+{"order_id": "ORD-002", "customer": {"id": 1002, "name": "Jane Smith", "tier": "silver"}, "items": [{"sku": "BOOK-123", "price": 19.99}], "total": 19.99, "status": "pending"}
+{"order_id": "ORD-003", "customer": {"id": 1003, "name": "Bob Wilson", "tier": "platinum"}, "items": [{"sku": "PHONE-555", "price": 799.99}, {"sku": "CASE-101", "price": 39.99}, {"sku": "CHARGER-202", "price": 49.99}], "total": 889.97, "status": "shipped"}
+{"order_id": "ORD-004", "customer": {"id": 1001, "name": "John Doe", "tier": "gold"}, "items": [{"sku": "DESK-789", "price": 299.99}], "total": 299.99, "status": "completed"}
+{"order_id": "ORD-005", "customer": {"id": 1004, "name": "Alice Brown", "tier": "bronze"}, "items": [{"sku": "PEN-001", "price": 2.99}, {"sku": "NOTEBOOK-050", "price": 5.99}], "total": 8.98, "status": "processing"}
